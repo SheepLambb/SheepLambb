@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SheepLambb
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning AI
 - 📫 Reach me y13382570430@163.com
 
 <!---
